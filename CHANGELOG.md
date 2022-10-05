@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.7](https://github.com/googleapis/java-service-management/compare/v3.1.6...v3.1.7) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([9c95d59](https://github.com/googleapis/java-service-management/commit/9c95d5980fc6fb9e113a975e11a824dd6c3a27ab))
+
 ## [3.1.6](https://github.com/googleapis/java-service-management/compare/v3.1.5...v3.1.6) (2022-10-03)
 
 
