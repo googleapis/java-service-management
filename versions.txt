@@ -1,6 +1,0 @@
-# Format:
-# module:released-version:current-version
-
-google-cloud-service-management:3.1.7:3.1.7
-grpc-google-cloud-service-management-v1:3.1.7:3.1.7
-proto-google-cloud-service-management-v1:3.1.7:3.1.7
